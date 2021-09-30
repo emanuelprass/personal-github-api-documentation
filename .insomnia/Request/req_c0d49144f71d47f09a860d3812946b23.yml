@@ -1,0 +1,30 @@
+_id: req_c0d49144f71d47f09a860d3812946b23
+type: Request
+parentId: fld_40b3635c38ee415eada47379f4338dfc
+modified: 1633018660282
+created: 1633018605443
+url: "{{baseUrl}}/api/updatebook/1"
+name: update book
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"bookName":"Listen Like a Dog: And Make Your Mark on the Worldd",
+    	"bookCreator": "Jeff Lazaruss"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2504406756e14361bd991a5458ee2d6f
+authentication: {}
+metaSortKey: -1633018605443
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
