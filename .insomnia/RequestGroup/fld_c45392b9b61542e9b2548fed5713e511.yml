@@ -1,0 +1,13 @@
+_id: fld_c45392b9b61542e9b2548fed5713e511
+type: RequestGroup
+parentId: wrk_4759f59ef35b421ca3bf148bab760034
+modified: 1633011695715
+created: 1633005406187
+name: book-catalog-go-gin
+description: ""
+environment:
+  baseUrl: localhost:8080
+environmentPropertyOrder:
+  "&":
+    - baseUrl
+metaSortKey: -1633009990647
