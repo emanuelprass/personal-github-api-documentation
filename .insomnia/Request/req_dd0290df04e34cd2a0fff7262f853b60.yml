@@ -1,0 +1,30 @@
+_id: req_dd0290df04e34cd2a0fff7262f853b60
+type: Request
+parentId: fld_40b3635c38ee415eada47379f4338dfc
+modified: 1633017614187
+created: 1633017548441
+url: "{{baseUrl}}/api/insertbook"
+name: add-book
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "bookName":"Seni Berpikir & Bertindak Besar",
+        "bookCreator":"Miftakhuddin"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_75e7051ea71841e0ba832b57ae17634d
+authentication: {}
+metaSortKey: -1633017548441
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
