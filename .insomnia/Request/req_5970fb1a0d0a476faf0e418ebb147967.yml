@@ -1,0 +1,21 @@
+_id: req_5970fb1a0d0a476faf0e418ebb147967
+type: Request
+parentId: fld_c45392b9b61542e9b2548fed5713e511
+modified: 1633009126988
+created: 1633005427608
+url: "{{ _.baseUrl }}/api/books"
+name: get-list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1633005406137
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
