@@ -1,0 +1,30 @@
+_id: req_308fa411c97e42d68dc73d24c359c00b
+type: Request
+parentId: fld_c45392b9b61542e9b2548fed5713e511
+modified: 1633319092934
+created: 1633318993892
+url: "{{baseUrl}}/api/insertbook"
+name: add-book
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "bookName":"Chicken Soup for the Cancer Survivor's Soul: Healing Stories of Courage and Inspiration Jack Canfield",
+        "bookCreator":"Mark Victor Hansen, Jack Canfield, Patty Aubrey, Beverly Katherine Kirkhart"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_75e7051ea71841e0ba832b57ae17634d
+authentication: {}
+metaSortKey: -1633005406087
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
