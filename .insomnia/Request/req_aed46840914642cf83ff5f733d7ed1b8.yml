@@ -1,0 +1,35 @@
+_id: req_aed46840914642cf83ff5f733d7ed1b8
+type: Request
+parentId: fld_8bed4a0559e449e68c8fbaf2c3643ae4
+modified: 1634811839079
+created: 1634800026416
+url: "{{ _.baseUrl }}/aws/signin"
+name: signin
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Username":"user1",
+    	"Password":"password1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_95d488ac219741ccae11e5f582fcf8e5
+  - id: pair_1b4797d25e164778901075202ea22d2c
+    name: company
+    value: dsf
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1634800026416
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

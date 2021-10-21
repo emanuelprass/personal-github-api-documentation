@@ -1,0 +1,13 @@
+_id: fld_8bed4a0559e449e68c8fbaf2c3643ae4
+type: RequestGroup
+parentId: wrk_4759f59ef35b421ca3bf148bab760034
+modified: 1634800060537
+created: 1634794673502
+name: dotnet-middleware-bsi
+description: ""
+environment:
+  baseUrl: http://localhost:8080
+environmentPropertyOrder:
+  "&":
+    - baseUrl
+metaSortKey: -1634794673503
